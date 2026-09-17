@@ -1,32 +1,30 @@
-# 👋 Hi, I'm Deepak Rawat
+# ⚡ Deepak Rawat
 
-### 💻 BCA Student • Developer • Data & Technology Enthusiast
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:10B981&height=180&section=header&text=Deepak%20Rawat&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-</p>
+### `Software Developer` • `Problem Solver` • `Data & Technology Enthusiast`
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Frontend+Developer;Full+Stack+Developer;Open+Source+Enthusiast;UI+%2F+UX+Explorer;AI+%26+Data+Science+Enthusiast" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=750&lines=Software+Developer;C%2B%2B+Developer;Open+Source+Enthusiast;AI+%26+Data+Science+Enthusiast;Problem+Solver;Always+Learning+Something+New" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Deepak7Rawat&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-```yaml
-Name: Deepak Rawat
-Education: BCA
-Current Focus:
-  - Web Development
-  - C / C++
-  - SQL
-  - Data Science
-  - Problem Solving
-
-Interests:
-  - Software Development
-  - UI/UX
-  - Artificial Intelligence
-  - Data
-  - Open Source
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  👋 Hi, I'm Deepak                                           │
+│                                                              │
+│  🎓 BCA Student                                              │
+│  💻 Software & Technology Enthusiast                         │
+│  🧠 Interested in Data, AI & Problem Solving                │
+│  🚀 Building practical projects and improving every day      │
+│  📚 Currently exploring SQL, Python & Data Science           │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
