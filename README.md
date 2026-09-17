@@ -13,7 +13,14 @@
 </div>
 
 ---
+<div align="center">
 
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Deepak7Rawat&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=FFFFFF" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak7Rawat&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&text_color=FFFFFF" />
+
+</div>
+---
 ## 👨‍💻 About Me
 
 ```text
